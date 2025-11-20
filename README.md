@@ -1,6 +1,6 @@
 # TypeDex Pokédex
 
-Um projeto simples e moderno para exibir Pokémon com detalhes, utilizando **HTML**, **CSS** e **JavaScript**. O objetivo é servir como base de estudo para desenvolvimento web e futura integração com **Django**.
+Um projeto para exibir uma Pokémon no formato Pokédex, utilizando **HTML**, **CSS** e **JavaScript**. O objetivo é servir como base para testes de estilização e lógica para desenvolvimento web e futura integração com **Django**.
 
 Baseado no projeto [pokedex](https://github.com/carpicoder/pokedex) criado por carpicoder
 
