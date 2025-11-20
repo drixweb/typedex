@@ -2,7 +2,7 @@
 
 Um projeto simples e moderno para exibir Pokémon com detalhes, utilizando **HTML**, **CSS** e **JavaScript**. O objetivo é servir como base de estudo para desenvolvimento web e futura integração com **Django**.
 
-Baseado no projeto ([pokedex](https://github.com/carpicoder/pokedex)) criado por carpicoder
+Baseado no projeto [pokedex](https://github.com/carpicoder/pokedex) criado por carpicoder
 
 ---
 
@@ -60,10 +60,14 @@ O projeto utiliza uma paleta inspirada no tema oficial Pokémon:
 ---
 
 ## 🔮 Próximos Passos
+- Expandir para todas as gerações Pokémon
 - Implementar busca de Pokémon
 - Adicionar filtros (tipo, geração)
 - Criar backend em Django
-- Adicionar API própria
+- Criar mecanismo de captura
+- Criar elementos gráficos de comparação de Pokémon
+- Criar módulo de criação e avaliação de party
+- Criar módulo de criação e avaliação de movie sets
 
 ---
 
