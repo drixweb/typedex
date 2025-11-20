@@ -45,7 +45,7 @@ function showPokemon(poke) {
     // Converte peso para KG e G
     let weight
     if (poke.weight > 9) {
-        weight = `${(poke.weight / 10).toString().replace(',', ',')} Kg`
+        weight = `${(poke.weight / 10).toString().replace('.', ',')} Kg`
     } else {
         weight = `${poke.weight * 100} g`
     }
